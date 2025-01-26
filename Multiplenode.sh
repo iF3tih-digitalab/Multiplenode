@@ -56,4 +56,4 @@ echo "Binding account with ID: $IDENTIFIER and PIN: $PIN..."
 multiple-cli bind --bandwidth-download 500000 --identifier $IDENTIFIER --pin $PIN --storage 10000000 --bandwidth-upload 500000
 
 echo "Installation completed successfully!"
-echo "Subscribe: https://t.me/iF3tih"
+echo "Subscribe: https://t.me/HappyCuanAirdrop"
