@@ -53,7 +53,7 @@ read -p "Account ID: " IDENTIFIER
 read -p "Set your PIN: " PIN
 
 echo "Binding account with ID: $IDENTIFIER and PIN: $PIN..."
-multiple-cli bind --bandwidth-download 500000 --identifier $IDENTIFIER --pin $PIN --storage 10000000 --bandwidth-upload 500000
+multiple-cli bind --bandwidth-download 100000 --identifier $IDENTIFIER --pin $PIN --storage 20000000 --bandwidth-upload 100000
 
 echo "Installation completed successfully!"
 echo "Subscribe: https://t.me/HappyCuanAirdrop"
